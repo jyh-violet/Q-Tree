@@ -40,7 +40,6 @@ extern BoundKey RemovedKey[MaxThread][RemovedQueueSize];
 extern u_int32_t clockFlag[MaxThread];
 extern int clockIndex[MaxThread];
 
-extern int printQTreelog;
 extern int useBFPRT;
 
 
